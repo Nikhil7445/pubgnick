@@ -1,0 +1,2 @@
+# pubgnick
+All about PUBG
